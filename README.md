@@ -2,7 +2,7 @@
 This dataset has been meticulously curated with the primary objective of developing a robust multimodal person verification and recognition system. The overarching aim is to enhance the security of voice-based identification systems by mitigating the risks associated with spoofing attacks. The dataset is derived from the contributions of 20 individuals and encompasses two distinct modalities: voice signals and online handwritten signatures.
 The dataset is organized into four folders, each serving a specific purpose:
 1. **Authentic-Online-Handwritten-Signature:**
-    This folder contains 25 authentic online handwritten signature samples from each of the 20 individuals, resulting in a comprehensive collection of genuine signatures.
+    This folder contains 25 authentic online handwritten signature samples from each of the 20 individuals, resulting in a comprehensive collection of genuine signatures. Each participant in this dataset is represented by "u," and each sample is denoted by "s." For instance, if the signature sample is the initial specimen from the first user, it is labeled as "u1s1," with the corresponding file saved as "u1s1.txt," and so forth..
 
 2. **Authentic-Voice-Signal**:
      Within this folder, you will find 25 authentic voice samples from each individual. The duration of these voice samples ranges between 60 to 120 seconds, capturing a diverse set of vocal characteristics.
